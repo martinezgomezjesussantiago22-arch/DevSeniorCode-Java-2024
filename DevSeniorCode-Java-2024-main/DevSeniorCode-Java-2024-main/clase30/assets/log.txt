@@ -1,0 +1,96 @@
+INFO - Inicio del sistema
+INFO - Configuración cargada correctamente
+ERROR - Conexión fallida
+INFO - Usuario conectado: Cesar
+WARN - Uso alto de memoria
+ERROR - Usuario no autorizado
+INFO - Proceso de sincronización iniciado
+INFO - Archivo procesado correctamente
+ERROR - No se pudo encontrar el archivo especificado
+WARN - Tiempo de respuesta lento
+INFO - Operación completada con éxito
+ERROR - Base de datos no disponible
+INFO - Usuario desconectado
+INFO - Inicio del sistema
+ERROR - Conexión fallida
+INFO - Datos cargados correctamente
+WARN - Espacio en disco bajo
+ERROR - Usuario no autorizado
+INFO - Copia de seguridad realizada correctamente
+INFO - Operación completada con éxito
+ERROR - Error desconocido en el sistema
+INFO - Usuario conectado: Juan
+WARN - Tiempo de respuesta lento
+ERROR - Conexión interrumpida
+INFO - Operación completada con éxito
+INFO - Inicio del sistema
+ERROR - Conexión fallida
+INFO - Configuración cargada correctamente
+WARN - Uso alto de memoria
+INFO - Usuario conectado: Maria
+ERROR - Archivo corrupto
+INFO - Proceso de limpieza iniciado
+INFO - Archivo procesado correctamente
+WARN - Tiempo de respuesta lento
+ERROR - No se pudo conectar al servidor
+INFO - Operación completada con éxito
+ERROR - Base de datos no disponible
+INFO - Usuario desconectado
+INFO - Inicio del sistema
+INFO - Configuración cargada correctamente
+WARN - Espacio en disco bajo
+ERROR - Usuario no autorizado
+ERROR - Conexión interrumpida
+INFO - Proceso finalizado correctamente
+WARN - Tiempo de respuesta lento
+INFO - Usuario conectado: Pedro
+ERROR - Archivo no encontrado
+INFO - Archivo procesado correctamente
+ERROR - Conexión fallida
+INFO - Operación completada con éxito
+INFO - Inicio del sistema
+ERROR - Base de datos no disponible
+INFO - Usuario conectado: Ana
+WARN - Uso alto de memoria
+INFO - Copia de seguridad realizada correctamente
+ERROR - Usuario no autorizado
+WARN - Espacio en disco bajo
+ERROR - Conexión interrumpida
+INFO - Proceso de limpieza iniciado
+INFO - Operación completada con éxito
+WARN - Tiempo de respuesta lento
+ERROR - No se pudo conectar al servidor
+INFO - Usuario desconectado
+INFO - Archivo procesado correctamente
+ERROR - Conexión fallida
+INFO - Inicio del sistema
+INFO - Configuración cargada correctamente
+ERROR - Base de datos no disponible
+WARN - Uso alto de memoria
+INFO - Usuario conectado: Luis
+ERROR - Archivo corrupto
+INFO - Proceso de sincronización iniciado
+WARN - Espacio en disco bajo
+INFO - Operación completada con éxito
+ERROR - Usuario no autorizado
+ERROR - Error desconocido en el sistema
+INFO - Copia de seguridad realizada correctamente
+WARN - Tiempo de respuesta lento
+INFO - Usuario desconectado
+INFO - Inicio del sistema
+ERROR - Conexión fallida
+WARN - Uso alto de memoria
+INFO - Usuario conectado: Elena
+INFO - Archivo procesado correctamente
+WARN - Tiempo de respuesta lento
+ERROR - Archivo no encontrado
+INFO - Operación completada con éxito
+ERROR - No se pudo encontrar el archivo especificado
+INFO - Usuario desconectado
+INFO - Configuración cargada correctamente
+ERROR - Conexión interrumpida
+WARN - Espacio en disco bajo
+INFO - Proceso de limpieza iniciado
+INFO - Archivo procesado correctamente
+ERROR - Base de datos no disponible
+INFO - Inicio del sistema
